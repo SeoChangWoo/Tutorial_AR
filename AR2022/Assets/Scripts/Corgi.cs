@@ -6,7 +6,12 @@ public class Corgi : MonoBehaviour
 {
     private void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        SetPuppy();
+    }
+
+    public void SetPuppy()
+    {
+        if (Input.GetMouseButtonDown(0))
         {
             gameObject.GetComponent<Animator>().SetTrigger("Jump");
         }
