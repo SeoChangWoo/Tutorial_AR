@@ -908,7 +908,7 @@ GameObject:
   - component: {fileID: 1229557957276469031}
   - component: {fileID: 4561514871415780022}
   m_Layer: 0
-  m_Name: cu_puppy_corgi
+  m_Name: WelshCorgi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
